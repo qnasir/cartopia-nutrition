@@ -8,7 +8,7 @@ import { motion } from 'framer-motion';
 const HeroSection: React.FC = () => {
   return (
     <section className="bg-gradient-to-r from-green-50 to-green-100 py-20">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row items-center">
           <motion.div 
             className="md:w-1/2 mb-8 md:mb-0"

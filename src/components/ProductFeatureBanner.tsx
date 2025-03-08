@@ -27,7 +27,7 @@ const ProductFeatureBanner: React.FC<ProductFeatureBannerProps> = ({ product }) 
   
   return (
     <div className="relative bg-gradient-to-r from-gray-50 to-gray-100 rounded-2xl overflow-hidden">
-      <div className="max-w-7xl mx-auto px-6 py-12 sm:px-8 flex flex-col md:flex-row items-center">
+      <div className="mx-auto px-6 py-12 sm:px-8 flex flex-col md:flex-row items-center">
         <motion.div 
           className="md:w-1/2 mb-8 md:mb-0"
           initial={{ opacity: 0, x: -30 }}

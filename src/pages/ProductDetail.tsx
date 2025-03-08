@@ -71,7 +71,7 @@ const ProductDetail = () => {
       <Navbar />
       
       <main className="flex-grow">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="mb-6">
             <Link to="/products" className="inline-flex items-center text-sm text-green-600 hover:text-green-700">
               <ArrowLeft size={16} className="mr-1" />

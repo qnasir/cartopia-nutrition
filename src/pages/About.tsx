@@ -13,7 +13,7 @@ const About = () => {
       <main className="flex-grow">
         {/* Hero Section */}
         <section className="bg-gradient-to-r from-green-50 to-green-100 py-16">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/2 mb-8 md:mb-0">
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
@@ -36,7 +36,7 @@ const About = () => {
         
         {/* Our Story Section */}
         <section className="py-16 bg-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Story</h2>
               <p className="max-w-3xl mx-auto text-lg text-gray-600">
@@ -69,7 +69,7 @@ const About = () => {
         
         {/* Values Section */}
         <section className="py-16 bg-gray-50">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Values</h2>
               <p className="max-w-3xl mx-auto text-lg text-gray-600">
@@ -119,7 +119,7 @@ const About = () => {
         
         {/* CTA Section */}
         <section className="py-16 bg-green-600">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <div className="mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 className="text-3xl font-bold text-white mb-4">Ready to Experience the Difference?</h2>
             <p className="text-lg text-green-100 mb-8 max-w-3xl mx-auto">
               Join thousands of satisfied customers who have transformed their fitness journey with typecabNutrition supplements.

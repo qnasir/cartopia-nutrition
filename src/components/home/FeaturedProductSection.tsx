@@ -11,7 +11,7 @@ interface FeaturedProductSectionProps {
 const FeaturedProductSection: React.FC<FeaturedProductSectionProps> = ({ product }) => {
   return (
     <section className="py-16 bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div 
           className="text-center mb-12"
           initial={{ opacity: 0, y: 20 }}
